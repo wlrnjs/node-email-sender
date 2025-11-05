@@ -42,7 +42,7 @@ SMTP_PASS=your-email-password
 FROM_NAME=Your Name
 FROM_EMAIL=your-email@example.com
 TO_EMAIL=recipient@example.com
-EMAIL_SUBJECT="이메일 제목"
+EMAIL_SUBJECT="Mail title"
 ```
 
 ## 🏃 사용 방법
