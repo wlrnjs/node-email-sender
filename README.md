@@ -1,4 +1,4 @@
-# Email Backup Tool
+# Email Send Tool
 
 이메일 전송을 위한 Node.js 스크립트입니다. 지정한 SMTP 서버를 통해 이메일을 전송합니다.
 
